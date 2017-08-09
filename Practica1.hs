@@ -5,7 +5,7 @@
 - Laboratorio: Fernando A. Galicia Mendoza
 - Implementación del lenguaje PostFix.
 - Integrantes:
-- <Nombres> - <Número de cuenta>
+- <Juan Adolfo Alfaro Jimenez> - <311255357>
 -}
 
 module LenguajePostfix where
